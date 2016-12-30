@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Plugin nudge</title>
+    </properties>
+    <body>
+        <section name="Plugin nudge">
+            <!--
+            <p>
+                <img src="images/nudge.png" />
+            </p>
+            -->
+            <subsection name="Introduction">
+                <p>This plugin allows the Nudge monitoring system to monitor Lutece Daemons without further configuration of the probe.</p>
+                <p>It has no effect if the Nudge probe is not configured on the app server.</p>
+            </subsection>
+        </section>
+    </body>
+</document>
+
